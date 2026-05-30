@@ -1,0 +1,6 @@
+a, b = map(int, input().split())
+for j in range(1, b + 1):
+    s = 0
+    for i in range(1 , a + 1):
+        s += i * j
+    print(s)
