@@ -1,0 +1,1 @@
+print(f"Men {input()} da yozaman")
