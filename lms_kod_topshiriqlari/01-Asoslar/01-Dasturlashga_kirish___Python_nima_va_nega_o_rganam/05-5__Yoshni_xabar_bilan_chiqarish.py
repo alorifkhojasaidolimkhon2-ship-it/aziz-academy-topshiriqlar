@@ -1,0 +1,1 @@
+print(f"Mening yoshim {input()}")
