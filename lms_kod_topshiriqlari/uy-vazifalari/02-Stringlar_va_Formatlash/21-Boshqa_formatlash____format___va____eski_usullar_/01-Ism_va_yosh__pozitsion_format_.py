@@ -1,0 +1,1 @@
+print(f"Ism: {input()}, Yosh: {input()}")
