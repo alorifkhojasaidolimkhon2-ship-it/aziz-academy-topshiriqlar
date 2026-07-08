@@ -1,0 +1,7 @@
+a = input()
+b = input()
+c = input()
+print(f"Mahsulot: {a}")
+print(f"Narxi: {b} som")
+print(f"Soni: {c}")
+print(f"Jami: {int(b) * int(c)} som")
