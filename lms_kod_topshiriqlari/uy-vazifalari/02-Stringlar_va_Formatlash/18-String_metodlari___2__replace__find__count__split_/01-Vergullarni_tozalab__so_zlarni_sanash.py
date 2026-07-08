@@ -1,0 +1,7 @@
+a = input()
+a = a.replace(',', ' ')
+s = a.split()
+t = ' '.join(s)
+ss = len(s)
+print(t)
+print(ss)
