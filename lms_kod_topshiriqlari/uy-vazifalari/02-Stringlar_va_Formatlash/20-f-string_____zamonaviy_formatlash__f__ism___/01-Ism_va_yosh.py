@@ -1,0 +1,1 @@
+print(f"Mening ismim {input()}, yoshim {input()}.")
