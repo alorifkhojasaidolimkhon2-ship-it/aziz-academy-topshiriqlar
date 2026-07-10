@@ -1,0 +1,1 @@
+print(input() == 'ali' and input() == 'parol123')
