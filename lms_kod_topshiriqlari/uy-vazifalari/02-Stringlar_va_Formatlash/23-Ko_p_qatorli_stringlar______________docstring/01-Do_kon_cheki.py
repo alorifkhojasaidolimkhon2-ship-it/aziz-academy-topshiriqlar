@@ -1,0 +1,8 @@
+print("===== CHEK =====")
+print(f"Mahsulot: {input()}")
+a = int(input())
+b = int(input())
+print(f"Narx: {a}")
+print(f"Soni: {b}")
+print(f"Jami: {a * b}")
+print('================')
