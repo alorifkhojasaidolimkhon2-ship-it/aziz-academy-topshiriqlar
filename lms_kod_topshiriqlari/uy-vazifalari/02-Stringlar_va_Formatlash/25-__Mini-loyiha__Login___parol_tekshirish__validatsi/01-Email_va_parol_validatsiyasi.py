@@ -1,0 +1,1 @@
+print(input() == 'ali@mail.com' and input() == 'parol123')
