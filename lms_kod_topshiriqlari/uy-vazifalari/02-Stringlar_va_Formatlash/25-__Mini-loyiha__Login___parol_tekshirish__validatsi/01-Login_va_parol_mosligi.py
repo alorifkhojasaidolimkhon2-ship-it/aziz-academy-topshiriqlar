@@ -1,0 +1,1 @@
+print(input() == 'admin' and input() == '1234')
