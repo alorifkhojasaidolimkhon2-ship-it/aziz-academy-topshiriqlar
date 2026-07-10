@@ -1,0 +1,7 @@
+a = input()
+b = input()
+c = input()
+d = input()
+print(f'Ism\tYosh')
+print(f"{a}\t{b}")
+print(f"{c}\t{d}")
